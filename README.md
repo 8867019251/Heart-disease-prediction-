@@ -1,4 +1,3 @@
-Here’s a simple description you can use for your Git repository:
 
 ---
 
