@@ -6,7 +6,7 @@ This project aims to predict the likelihood of heart disease in patients using v
 **Features:**
 - **Data Preprocessing:** Handling missing values, normalization, and feature selection.
 - **Modeling:** Implementation of Logistic Regression, Random Forest, and Support Vector Machine (SVM).
-- **Evaluation:** Metrics include Accuracy, Precision, Recall, F1-Score, and ROC-AUC.
+- **Evaluation:** Metrics include Accuracy, Precision, Recall.
 - **Deployment:** Simple Flask web app for real-time predictions.
 
 **Skills Demonstrated:**
@@ -14,7 +14,7 @@ This project aims to predict the likelihood of heart disease in patients using v
 - Data Analysis
 - Python Programming
 - Model Evaluation
-- Web Deployment
+
 
 **Future Enhancements:**
 - Integration of lifestyle factors into the model.
